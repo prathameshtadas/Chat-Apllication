@@ -1,0 +1,18 @@
+# Maven / Java build output
+target/
+*.class
+out/
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
